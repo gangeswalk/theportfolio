@@ -58,3 +58,7 @@ img {
     font-size: 26px;
     padding: 24px;
 }
+
+.nav-list a:hover {
+    background: blue;
+}
