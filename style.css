@@ -162,3 +162,22 @@ img {
       font-size: 1.5rem;
   }
   
+@media (max-width: 460px){
+    html {
+        font-size: 55%;
+    }
+    .nav {
+        justify-content: center;
+    }
+    .nav-list {
+        margin: 1rem;
+    }
+    .projects-section-header {
+        font-size: 4rem;
+    }
+    .contact-section-header > h2 {
+        font-size: 4rem;
+    }
+
+
+}
