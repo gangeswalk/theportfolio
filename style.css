@@ -139,7 +139,7 @@ img {
 
 .project-title {
     font-size: 27px;
-    padding: 2rem 0.5rem;
+    padding: .5rem 0.5rem;
 }
 
 .contact-section {
@@ -155,16 +155,16 @@ img {
   }
   
   .contact-section-header > h2 {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 
   .contact-section-header > p {
-      font-size: 1.5rem;
+      font-size: 1.2rem;
   }
   
 @media (max-width: 460px){
     html {
-        font-size: 55%;
+        font-size: 45%;
     }
     .nav {
         justify-content: center;
@@ -173,10 +173,10 @@ img {
         margin: 1rem;
     }
     .projects-section-header {
-        font-size: 4rem;
+        font-size: 2rem;
     }
     .contact-section-header > h2 {
-        font-size: 4rem;
+        font-size: 2rem;
     }
 
 
